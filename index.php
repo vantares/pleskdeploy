@@ -1,1 +1,1 @@
-<?php echo "🚀 Auto-deployed via Plesk Git Extension!"; ?>
+<?php echo "🚀 Auto-deployed via Plesk Git Module via web hook!"; ?>
