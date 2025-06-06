@@ -1,1 +1,1 @@
-<?php echo "Hello from GitHub - Plesk Git Deployment PoC!"; ?>
+<?php echo "🚀 Auto-deployed via Plesk Git Extension!"; ?>
